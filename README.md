@@ -8,8 +8,7 @@ Adventure works Business Case and KPI Analysis Report
 
 The historical sales and computed profit from the adventure works data set shows that the component category is the highest earning category and most profitable. Amongst the three categories, the components category amounts for 48.13% of the total revenue and profit. Followed closely by Bikes at 39.23% and the last is the clothing category with 12.64%. The total revenue was $28.3 Million with contribution from components taking $14.5M, Bikes with $10M and clothing with $3.8M. with the chart above, it shows that there should be a focus on marketing the sales of components and bikes more as they clearly are revenue drivers with a reduction in advertising for clothing.
 
-**B. Demographics and Revenue and profits
-**
+**B. Demographics and Revenue and profits**
 
 ![image](https://user-images.githubusercontent.com/115041487/221764926-bcd7b972-7366-4086-b4c4-06dd36525440.png)
  
